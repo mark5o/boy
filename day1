@@ -1,0 +1,19 @@
+#user configuration
+     git config --global user.name "Shail"
+     git config --global user.email "life4ushail@gmail.com"
+     git add .
+
+#remote repository connect
+    git remote add origin "https://github.com/mark5o/boy.git"
+
+#save and commit all changes
+     git add .
+     git commit -m "first commit"
+
+#push the changes to github
+   git push origin master
+
+
+
+
+   
